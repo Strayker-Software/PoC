@@ -1,19 +1,18 @@
-# Patern Repository (Name here!)
+# Strayker Software Proof of Concept Collection
 
-My patern repository for all my projects!
-(Description here!)
+In this repository organisation is storing source code of all PoCs ever created for our production works.
 
-## Tech Stack
+If some project status shows, that given project is on "PoC" phase, this means that files of this work will be located here.
 
-- List Here!
+## Repo Workflow
 
-## Getting Started
-
-(How to run the solution?)
+This repo is not included into default organisation's procedures.
 
 ## Licensing
 
-This project is licensed under MIT/X11 license.
+Every PoC is licensed under license terms provided in main repo's directory.
+
+Given PoC can be licensed differently, in this situation license will be provided in given PoC's path separately.
 
 ## Contact
 
